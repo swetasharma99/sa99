@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'savi'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_7de0d6326cad470f984b2272085e98b1 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_deafca2c9c33494eb5eb39a1b6293943 }}
         package: .
